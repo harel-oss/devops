@@ -1,0 +1,18 @@
+#final project
+#student : Harel Ben Haim
+
+# In did only the must project - CI/CD Pipeline from git to kubernetes
+
+# I created Docker image 
+
+# Than, I pushed it into my repo in docker-hub under public env harel/1978
+
+# finnally, I created deployment with K3S
+
+# again , I enjoy learning from
+
+# Best regard
+
+# Harel
+
+
